@@ -1,0 +1,61 @@
+.warbber {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.yourgold {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.counter {
+    border: 2px solid black;
+    height: 40px;
+    width: 130px;
+    margin: 30px;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+}
+
+.finder {
+    border: 2px solid black;
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+}
+
+.activitesbox {
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+    overflow: scroll;
+}
+
+h2{
+    margin: 30px;
+}
+
+p {
+    margin: 30px;
+}
+
+.long{
+    margin-top: 11px;
+}
+
+button {
+    margin-top: 30px;
+    background-color: goldenrod;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
